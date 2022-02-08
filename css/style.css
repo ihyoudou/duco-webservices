@@ -694,6 +694,7 @@ summary {
   -o-transition: 0.25s filter linear;
   filter: blur(4px);
 }
+
 #email:hover {
   filter: blur(0);
 }
